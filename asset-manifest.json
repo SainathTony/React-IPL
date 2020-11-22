@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-IPL/static/css/main.883cc07a.chunk.css",
+    "main.js": "/React-IPL/static/js/main.934bbb30.chunk.js",
+    "main.js.map": "/React-IPL/static/js/main.934bbb30.chunk.js.map",
+    "runtime-main.js": "/React-IPL/static/js/runtime-main.6e124746.js",
+    "runtime-main.js.map": "/React-IPL/static/js/runtime-main.6e124746.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/React-IPL/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e926167c.chunk.js": "/React-IPL/static/js/2.e926167c.chunk.js",
+    "static/js/2.e926167c.chunk.js.map": "/React-IPL/static/js/2.e926167c.chunk.js.map",
+    "static/js/3.f709ffb2.chunk.js": "/React-IPL/static/js/3.f709ffb2.chunk.js",
+    "static/js/3.f709ffb2.chunk.js.map": "/React-IPL/static/js/3.f709ffb2.chunk.js.map",
+    "index.html": "/React-IPL/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/React-IPL/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.883cc07a.chunk.css.map": "/React-IPL/static/css/main.883cc07a.chunk.css.map",
+    "static/js/2.e926167c.chunk.js.LICENSE.txt": "/React-IPL/static/js/2.e926167c.chunk.js.LICENSE.txt",
+    "static/media/logo.9106fa50.png": "/React-IPL/static/media/logo.9106fa50.png",
+    "static/media/App.css": "/React-IPL/static/media/winners.cd2b2e5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e124746.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e926167c.chunk.js",
+    "static/css/main.883cc07a.chunk.css",
+    "static/js/main.934bbb30.chunk.js"
+  ]
+}
